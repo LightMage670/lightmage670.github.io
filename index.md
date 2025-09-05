@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Welcome"
+title: LightMage670's Portfolio
 permalink: /
 ---
+# Welcome
+This is my
