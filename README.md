@@ -1,1 +1,0 @@
-Welcome to the work in progress temporary resume and portfolio site of LightMage670. Once complete, you can find her resume and portfolio. This is also the first project in that portfolio.
