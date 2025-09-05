@@ -25,7 +25,7 @@ url: https://lightmage670.github.io  # the base hostname and protocol for your s
 description: >- # this means to ignore newlines until "baseurl:"
   The access point for LightMage670's resume and portfolio.
 baseurl: /lightmage670.github.io/      # place folder name if the site is served in a subfolder
-github_username:  LightMage670
+github_username: LightMage670
 
 # Build settings
 theme: jekyll-theme-minima
