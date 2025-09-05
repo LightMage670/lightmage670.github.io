@@ -28,7 +28,7 @@ baseurl: /lightmage670.github.io/      # place folder name if the site is served
 github_username:  LightMage670
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 
