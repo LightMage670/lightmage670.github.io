@@ -20,8 +20,6 @@
 
 title: LightMage670's Portfolio Site
 email: lightmage670@gmail.com
-domain: lightmage670.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://lightmage670.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The access point for LightMage670's resume and portfolio.
 baseurl: /lightmage670.github.io/      # place folder name if the site is served in a subfolder
