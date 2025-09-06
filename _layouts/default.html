@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{ page.title }}</title>
+        <style>
+            body{
+                color: white;
+                background: #212121;
+            }
+            nav{
+                background: #000000;
+            }
+        </style>
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about">About</a></li>
+            </ul>
+        </nav>
+        <section>
+            {{ content }}
+        </section>
+    </body>
+</html>
