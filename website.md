@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Portfolio Website
-permalink: /Website
+permalink: /website
 ---
 # Portfolio Website
 
