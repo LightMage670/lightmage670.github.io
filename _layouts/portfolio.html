@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<style>
+    .git {
+        display: inline-block;
+        color: white;
+        margin-left: 1rem;
+        text-align: center;
+        padding: 0.5rem;
+        text-decoration: none;
+        background-color: #333333;
+    }
+
+    .git:hover {
+        background-color: #111111;
+    }
+</style>
+<h1>{{ page.title }}</h1>
+<a class="git" href="{{ page.link }}">GitHub</a>
+<hr>
+{{ content }}
