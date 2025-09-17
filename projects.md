@@ -43,10 +43,10 @@ A list of all projects I've worked on in part or in whole. Click the title to go
     <li class="card">
         <div class="container">
             <h2>
-                <a href="/website">Portfolio Website</a>
+                <a href="/website" target="_blank">Portfolio Website</a>
             </h2>
             <p>Portfolio Page for the Portfolio Website</p>
-            <small><a href="https://github.com/LightMage670/lightmage670.github.io">GitHub</a></small>
+            <small><a href="https://github.com/LightMage670/lightmage670.github.io" target="_blank">GitHub</a></small>
         </div>
     </li>
 </div>
