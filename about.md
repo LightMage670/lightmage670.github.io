@@ -13,17 +13,17 @@ I will admit I currently hold a fairly negative view of AI, I prefer not using i
 
 ## Contact
 
-If you're looking to talk about projects I've uploaded to GitHub as a user or developer, contact me using the GitHub email.
-
-If you're looking to give me a job, use the employer email. Also, resumes will only be provided by request to this email.
+Use the emails below (they're hidden, click on the text sections with the arrows by them) to get in touch with me.
 <br><br>
 <details>
-    <summary>GitHub Email</summary>
+    <summary>Want to know about the projects here, or help improve them?</summary>
     <br>
+    Please put the name of the project at the start of the subject for visibilty, otherwise it might take a little while for me to find it.
     lightmage670@gmail.com
 </details>
 <details>
-    <summary>Employer Email</summary>
+    <summary>Want to hire me?</summary>
     <br>
+    Please include something in the subject line for visibility, also, you can request my resume from here.
     lp.davismiller@gmail.com
 </details>
